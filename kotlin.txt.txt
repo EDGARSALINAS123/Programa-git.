@@ -1,12 +1,2 @@
-EDGARSALINAS KYO_SALINAS@HOTMAIL.COM
-ssjsjssjsjs	
-
-git init -- inicia el repositorio
-
-git status -- mirar si hay cambios sin subir 
-
-git add . -- agrega todos los cambios
-
-git commit -m "mensaje"
-
-git push -u origin main -- subir los cambios
+EDGARSALINAS 
+KYO_SALINAS@HOTMAIL.COM
